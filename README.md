@@ -1,5 +1,5 @@
 # Crop-Disease-Detection
-## A Deep Learniing Project 
+## A Deep Learning Project 
 
 ## Introduction
 - Agricultural production rate plays a vital role in the economic
@@ -81,13 +81,13 @@ highly occured on tomato plant.
 - The images had taken with different angles, with different
 backgrounds, and in different lighting conditions with an image size is 255 X 255 pixels.
 
-For more details about the dataset, please refer to [**"Dataset"**][2].
+For more details about the dataset, please refer the [**"Dataset"**][2].
 
 [2]: https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf "Title"
 
 ## Models Implemented
 
-We have implemented 3 models successfully ontomato plant.
+We have implemented 3 models successfully on tomato plant.
 1. CNN (with 3 different variants)
 2. INCEPTION-v3
 3. VGG-16
