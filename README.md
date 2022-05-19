@@ -4,18 +4,16 @@
 ## Introduction
 - Agricultural production rate plays a vital role in the economic
 development of a country.
-● The identification of plant diseases at an early stage is crucial for global health and wellbeing. So, controlling on the diseased leaves
+- The identification of plant diseases at an early stage is crucial for global health and wellbeing. So, controlling on the diseased leaves
 during the growing stages of crops is a crucial step.
-● Moreover, increasing crop production is essential to areas where food is scarce.
+- Moreover, increasing crop production is essential to areas where food is scarce.
 Loss of crops from plant diseases would result in
 reduction of income for crop producers, higher
-prices for consumers and significant economic
-impact.
-● The access to disease-control methods is limited
+prices for consumers and significant economic impact.
+- The access to disease-control methods is limited
 which results in annual losses of 30 to 50
 percent for major crops in various countries. 
-● Hence, detection of crop diseases is very crucial
-for economic development.
+- Hence, detection of crop diseases is very crucial for economic development.
 
 ## Problem Motivation
 - In these present situations, it is difficult for farmers to sell their products at a fair price in markets. Customers are buying hybrid fruits and vegetables which are not good for health which contain harmful substances.
