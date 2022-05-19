@@ -1,4 +1,4 @@
-# Crop-Diease-Detection
+# Crop-Disease-Detection
 ## A Deep Learniing Project 
 
 ## Introduction
