@@ -52,11 +52,10 @@ identifying the disease of a plant using color, leaf spots, etc.
 3. We developed a web based application so that it can be used
 widely by large number of people to determine crop diseases.
 
-For more details about the project, please refer to [**"Crop Disease Detection PPT.pdf"**][1] and the [**"Crop Disease Detection Report.pdf"**][10].
+For more details about the project, please refer to [**"Crop Disease Detection PPT.pdf"**][1]. 
 
-[1]: https://github.com/anirudhjak06/Crop-Disease-Detection/blob/main/Crop%20Disease%20Detection%20PPT.pdf "Title"
+[1]: https://github.com/anirudhjak06/Crop-Disease-Detection/blob/main/Slides/Crop_Disease_Detection_Slides.pdf "Title"
 
-[10]: https://github.com/anirudhjak06/Crop-Disease-Detection/blob/main/Crop%20Disease%20Detection%20PPT.pdf "Title"
 
 
 ## Dataset Description
@@ -121,6 +120,10 @@ We have implemented 5 models successfully on tomato plant.
 For more details, about the models and their code, please refer to [**"Codes"**][4].
 
 [4]: https://github.com/anirudhjak06/Crop-Disease-Detection/tree/main/Codes "Title"
+
+Moreover, to get an overview of the entire project, please go through the [**"Crop Disease Detection Report.pdf"**][10].
+
+[10]: https://github.com/anirudhjak06/Crop-Disease-Detection/blob/main/Report/Crop_Disease_Detection_Report.docx.pdf "Title"
 
 ## Group Members
 
