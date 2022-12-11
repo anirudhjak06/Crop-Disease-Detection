@@ -49,15 +49,19 @@ infected with.
 2. We intend to use deep convolutional neural networks (D-CNN)
 and some concepts of image processing to reach our goal of
 identifying the disease of a plant using color, leaf spots, etc.
-3. Also, if time permits, we are also planning to develop a web based
-application so that it can be used widely by large number of
-people to determine crop diseases.
+3. We developed a web based application so that it can be used
+widely by large number of people to determine crop diseases.
 
-For more details about the project, please refer to [**"Crop Disease Detection PPT.pdf"**][1].
+For more details about the project, please refer to [**"Crop Disease Detection PPT.pdf"**][1] and the [**"Crop Disease Detection Report.pdf"**][10].
 
 [1]: https://github.com/anirudhjak06/Crop-Disease-Detection/blob/main/Crop%20Disease%20Detection%20PPT.pdf "Title"
 
+[10]: https://github.com/anirudhjak06/Crop-Disease-Detection/blob/main/Crop%20Disease%20Detection%20PPT.pdf "Title"
+
+
 ## Dataset Description
+
+### Old Dataset
 The dataset has different types of diseases for tomato leaves. There are 10 classes present which is shown below.
 
 - Here goes the list:
@@ -81,16 +85,42 @@ highly occured on tomato plant.
 - The images had taken with different angles, with different
 backgrounds, and in different lighting conditions with an image size is 255 X 255 pixels.
 
-For more details about the dataset, please refer the [**"Dataset"**][2].
+For more details about the dataset, please refer the [**"Old Dataset"**][2].
 
 [2]: https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf "Title"
 
+
+### New Augmented Dataset
+
+- Now, the datatset is augmented and the total images for training data are 18,345 images and for testing data are 4,585 images.
+
+- Image Size 255 X 255
+
+- A combination of picture flipping, rotation, blur, relighting, and
+random cropping, image augmentation artificially builds training
+images. In this, we scale, shear, zoom, and horizontally flip the
+photos as part of the image augmentation process.
+
+- The images were stored in the RGB image by
+
+For more details about the dataset, please refer the [**"New Augmented Dataset"**][3].
+
+[3]: https://www.kaggle.com/datasets/noulam/tomato "Title"
+
+
+
 ## Models Implemented
 
-We have implemented 3 models successfully on tomato plant.
+We have implemented 5 models successfully on tomato plant.
 1. CNN (with 3 different variants)
 2. INCEPTION-v3
 3. VGG-16
+4. VGG-16-Fine-Tuning
+5. VGG-19
+
+For more details, about the models and their code, please refer to [**"Codes"**][4].
+
+[4]: https://github.com/anirudhjak06/Crop-Disease-Detection/tree/main/Codes "Title"
 
 ## Group Members
 
