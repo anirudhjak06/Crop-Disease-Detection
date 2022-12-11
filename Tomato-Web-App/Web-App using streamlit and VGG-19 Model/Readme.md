@@ -6,8 +6,8 @@
 ## Description : 
 * ### Used Transfer Learning to create a model using Tensorflow.
 * ### The transfer learning model used is VGG19.
-* ### The accuracy of the model in validation data turn out to be 87%
-* ### With a validation loss of less than 0.3
+* ### The accuracy of the model in validation data turn out to be 88.37%
+* ### With a validation loss of less than 0.4795
 
 ## The VGG model with transfer learing look like :
 
